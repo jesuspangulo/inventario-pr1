@@ -1,0 +1,8 @@
+1,Teclado,15,12.99
+2,Mouse,20,9.99
+3,Monitor,8,120.00
+4,Impresora,5,85.50
+5,Memoria USB,30,7.25
+6,Disco Duro,10,55.00
+7,Procesador,6,220.00
+8,Fuente de Poder,7,45.00
